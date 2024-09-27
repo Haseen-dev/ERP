@@ -1,10 +1,3 @@
-# ERP
-A **README** file serves as documentation for your project, explaining what the project does, how to set it up, and how to use it. Here's a general template you can follow for your project:
-
-### Sample README for Your Full Stack Application:
-
----
-
 # Full Stack ERP System - PHP & MySQL
 
 ## Table of Contents
@@ -43,7 +36,7 @@ This is a simple ERP (Enterprise Resource Planning) system built using **PHP** f
 ## Installation Guide
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/erp-system.git
+   git clone https://github.com/Haseen-dev/ERP.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -98,4 +91,3 @@ The system generates the following reports:
 5. Create a new Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

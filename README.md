@@ -30,7 +30,6 @@ This is a simple ERP (Enterprise Resource Planning) system built using **PHP** f
 - **Backend:** PHP
 - **Database:** MySQL
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **CSS Framework:** Bootstrap 5
 - **Version Control:** Git/GitHub
 
 ## Installation Guide
